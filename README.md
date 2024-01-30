@@ -21,9 +21,9 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
      - Incorrect Datatypes (astype)
 5) EDA (Exploratory Data Analysis)
    - Univariate Analysis
-     - PDF, CDF, Box Plot, Pie Plot, Violin Plot, Mean, Meadian, Standard deviation etc
+     - PDF, CDF, count plot, Box Plot, Pie Plot, displot, Violin Plot, Mean, Meadian, Standard deviation etc
    - Bivariate Analysis
-     - Pair Plot, Scatter Plot
+     - Pair Plot, Scatter Plot, cross tab, bar plot, heat map, clutster map
    - Multi variate Analysis
      - Contour Plot
    - EDA using Pandas Profiler 
